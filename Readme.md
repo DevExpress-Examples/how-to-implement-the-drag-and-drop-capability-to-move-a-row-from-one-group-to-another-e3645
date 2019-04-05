@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainWindow.xaml](./CS/Q356907/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Q356907/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/Q356907/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/Q356907/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/Q356907/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/Q356907/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to implement the drag-and-drop capability to move a row from one group to another
 
